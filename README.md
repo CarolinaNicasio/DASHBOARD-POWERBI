@@ -1,5 +1,5 @@
 
-# Project Title
+# Dashboard BI
 
 💡Did you know that knowing the difference between dashboard models can make sure you present the right information to the right people, at the right time?
 
